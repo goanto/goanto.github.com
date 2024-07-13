@@ -518,6 +518,17 @@ a.hoverline:hover {
   height: 240px;
 }
 
+div.scroll-container {
+  background-color: #333;
+  overflow: auto;
+  white-space: nowrap;
+  padding: 10px;
+}
+
+div.scroll-container img {
+  padding: 10px;
+}
+
 .card-action a.btn-floating {
   margin-bottom: 0;
 }
