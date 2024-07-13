@@ -519,18 +519,17 @@ a.hoverline:hover {
 }
 
 div.scroll-container {
-  background-color: #009688;
+  background-color: transparent;
   overflow: auto;
   white-space: nowrap;
-  height: 520px;
- /* width:520px; */
+  height: 330px;
   padding: 10px;
 }
 
 div.scroll-container img {
   padding: 10px;
-  height: 500px;
-  width:500px; 
+  height: 300px;
+  width:300px; 
 }
 
 .card-action a.btn-floating {
