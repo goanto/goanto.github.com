@@ -522,14 +522,13 @@ div.scroll-container {
   background-color: transparent;
   overflow: auto;
   white-space: nowrap;
-  height: 430px;
+  height: 370px;
   padding: 10px;
 }
 
 div.scroll-container img {
   padding: 10px;
-  height: 400px;
-  width:400px; 
+  height: 320px;
 }
 
 .card-action a.btn-floating {
